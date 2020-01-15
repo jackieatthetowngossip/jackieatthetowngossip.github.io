@@ -44,9 +44,10 @@ h2 {
 }
 
 .movie {
+	padding: 4em 0 4em 0;
 	background-color:#fe667d;
 	align-content:center;
-	padding:4em 0 4em 0;
+	
 
 }
 
