@@ -55,6 +55,14 @@ h2 {
 	margin-top:2em
 }
 
+.help {
+	padding:5em 1em 5em 5em;
+}
+
+.contact {
+	padding:5em 1em 5em 5em;
+}
+
 footer {
 	background-color:#0C2644;
 	color:#ffffff;
