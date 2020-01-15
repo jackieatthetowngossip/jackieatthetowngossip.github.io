@@ -36,6 +36,10 @@ h2 {
 
 }
 
+span{
+	padding: 2em 0 0 0;
+}
+
 footer {
 	background-color:#0C2644;
 	color:#ffffff;
