@@ -47,8 +47,12 @@ h2 {
 	padding: 4em 0 4em 0;
 	background-color:#ffe6e9;
 	align-content:center;
-	
 
+}
+
+.inspire {
+	padding:5em 1em 5em 5em;
+	margin-top: 2em
 }
 
 footer {
