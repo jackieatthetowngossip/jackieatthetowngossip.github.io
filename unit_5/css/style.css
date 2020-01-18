@@ -45,7 +45,7 @@ h2 {
 
 blockquote
  margin 2em auto;
- padding: 2em 0 0 0 0
+ padding: 2em 0 0 0; 
 }
 
 .movie {
@@ -63,6 +63,7 @@ blockquote
 .help {
 	padding:5em 1em 5em 5em;
 	background-color:#98BFEB;
+
 }
 
 .contact {
