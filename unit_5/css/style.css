@@ -86,6 +86,10 @@ cite {
 	width: 60%;
 }
 
+#children {
+	padding:2em 2em 2em 0;
+}
+
 #column4 {
 	float: right;
 	width: 40%;
