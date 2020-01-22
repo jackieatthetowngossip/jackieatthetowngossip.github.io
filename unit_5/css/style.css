@@ -87,13 +87,13 @@ cite {
 }
 
 #children {
-	padding:2em 2em 2em 0;
+	padding:2em;
 }
 
 #column4 {
 	float: right;
 	width: 40%;
-	align: right;
+	align-items: right;
 }
 
 .clearfix:after {
