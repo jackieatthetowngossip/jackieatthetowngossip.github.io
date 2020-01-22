@@ -93,6 +93,7 @@ cite {
 #column4 {
 	float: right;
 	width: 40%;
+	align: right;
 }
 
 .clearfix:after {
