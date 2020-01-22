@@ -82,13 +82,13 @@ cite {
 }
 
 #column4 {
-	float: right;
-	width: 50%;
+	float: left;
+	width: 60%;
 }
 
 #column5 {
-	float: left;
-	width: 50%;
+	float: right;
+	width: 40%;
 }
 
 .clearfix:after {
