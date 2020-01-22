@@ -14,7 +14,7 @@ a {
 }
 
 a:hover{
-	background-color:#F08080;
+	text:#fad1d1;
 }
 
 body {
@@ -101,7 +101,7 @@ cite {
 }
 
 #more {
-	padding:2px 0 0 0 ;
+	padding:3px 0 0 0 ;
 }
 
 #column4 {
