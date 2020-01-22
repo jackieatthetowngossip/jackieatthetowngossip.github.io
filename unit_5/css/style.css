@@ -95,6 +95,7 @@ cite {
 	float: right;
 	width: 40%;
 	padding: 3em 0 0 0;
+	align-content: right;
 }
 
 .clearfix:after {
