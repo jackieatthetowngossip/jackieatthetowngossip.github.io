@@ -61,12 +61,41 @@ cite {
 	padding: 4em 0 4em 0;
 	background-color:#4289DB;
 	align-content:center;
+	float:left;
 
+}
+
+#column1 {
+	float: left;
+	width: 60%;
+}
+
+#column2 {
+	float: right;
+	width: 40%;
 }
 
 .inspire {
 	padding:5em 1em 5em 5em;
 	margin-top:2em;
+}
+
+#column4 {
+	float: right;
+	width: 50%;
+}
+
+#column5 {
+	float: left;
+	width: 50%;
+}
+
+.clearfix:after {
+	visibility: hidden;
+	display: block;
+	content:"";
+	clear: both;
+	height: 0;
 }
 
 .help {
