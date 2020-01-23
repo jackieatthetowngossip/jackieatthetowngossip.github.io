@@ -1,0 +1,144 @@
+@import url('https://fonts.googleapis.com/css?family=Cherry+Cream+Soda&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
+* {margin: 0; padding: 0; box-sizing: border-box;}
+
+nav {
+	font-family: 'Cherry Cream Soda', cursive;
+	color:#000000;
+	font-size: 16px;
+	padding-bottom: 2em;
+}
+
+a {
+	padding:10px;
+}
+
+a:hover{
+	color:#e73232;
+}
+
+body {
+	color:#333;
+	font-family:'Open Sans', sans-serif;
+	font-size:16px;
+	line-height:1.3;
+	margin:1.5em;
+	padding:3em;
+}
+
+h1 {
+	font-family: 'Cherry Cream Soda', cursive;
+	text-align: center;
+	font-size: 30px;
+}
+
+h2 {
+	font-family: 'Open Sans',sans-serif;
+	font-size: 20px;
+	text-align: center;
+}
+
+#intro{
+	background-image: url(../images/mountain-2158661_1920.jpg);
+	background-size:cover;
+	background-repeat: no-repeat;
+	background-position:center;
+	height:90vh;
+	padding:5em 0 7em 5em;
+}
+
+#sitetitle {
+	padding: 6em 0 0 7em;
+}
+
+
+#first{
+	padding:3em 1em 3em 4em;
+    margin:3em auto;
+}
+
+blockquote {
+	margin:0;
+}
+	blockquote p{
+		padding-top:1em;
+
+	}
+
+cite {
+	padding-bottom:3em;
+}
+
+
+.movie {
+	padding: 4em 0 4em 0;
+	background-color:#4289DB;
+	align-content:center;
+	float:left;
+
+}
+
+#column1 {
+	float: left;
+	width: 60%;
+	padding: 4em 0 4em 0;
+}
+
+#column2 {
+	float: right;
+	width: 40%;
+	padding:8em 0 4em 0;
+}
+
+#inspire {
+	padding: 20px;
+
+}
+
+#column3 {
+	float: left;
+	width: 60%;
+	padding:20px;
+}
+
+#children {
+	padding:5px 0 5px 0;
+
+}
+
+#more {
+	padding:3px 0 0 0 ;
+}
+
+#column4 {
+	float: right;
+	width: 40%;
+	padding: 20px;
+	text-align: right;
+}
+
+.clearfix:after {
+	visibility: hidden;
+	display: block;
+	content:"";
+	clear: both;
+	height: 0;
+}
+
+.help {
+	padding:5em 1em 5em 5em;
+	background-color:#98BFEB;
+
+}
+
+.contact {
+	padding:5em 1em 5em 5em;
+}
+
+footer {
+	background-color:#0C2644;
+	color:#ffffff;
+	margin:5em 0 0 0;
+	padding:6em 0 3em 0;
+	text-align:center;
+}
