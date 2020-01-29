@@ -24,7 +24,12 @@ body {
 	line-height:1.3;
 	margin:1.5em;
 	padding:2em;
-	background-color: #87b4de;
+	background: #bce0ee;
+	background: -moz-linear-gradient(left,  #bce0ee 10%, #6985c4 41%, #87b4de 85%);
+	background: -webkit-linear-gradient(left,  #bce0ee 10%,#6985c4 41%,#87b4de 85%);
+	background: linear-gradient(to right,  #bce0ee 10%,#6985c4 41%,#87b4de 85%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#bce0ee', endColorstr='#87b4de',GradientType=1 );
+
 }
 
 h1 {
