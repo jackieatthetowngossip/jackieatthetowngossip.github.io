@@ -121,7 +121,7 @@ cite {
 #column4 {
 	float: right;
 	width: 50%;
-	padding: 2em;
+	padding: 1em;
 	text-align: right;
 }
 
@@ -137,6 +137,16 @@ cite {
 	padding:5em 1em 5em 5em;
 
 
+}
+
+}
+#column5 {
+
+}
+
+#column6 {
+	float: right;
+	text-align: right;
 }
 
 .contact {
