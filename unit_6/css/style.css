@@ -55,8 +55,15 @@ h2 {
 	padding:2em 0 7em 2em;
 }
 
+#donatenow{
+	padding:2em 2em 2em 2em;
+	color: white;
+	font-family: 'Open Sans',sans-serif;
+	background-color:#e73232;
+}
+
 #sitetitle {
-	padding: 8em 0 0 8em;
+	padding: 8em 0 0 10em;
 }
 
 
