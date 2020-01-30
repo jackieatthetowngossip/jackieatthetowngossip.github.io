@@ -57,9 +57,10 @@ h2 {
 
 #donatenow{
 	padding:2em 2em 2em 2em;
-	color: white;
+	color: #FFFFFF;
 	font-family: 'Open Sans',sans-serif;
 	background-color:#e73232;
+	text-align: right;
 }
 
 #sitetitle {
