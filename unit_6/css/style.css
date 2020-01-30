@@ -56,12 +56,14 @@ h2 {
 }
 
 #donatenow{
+	float:right;
 	padding:2em 2em 2em 2em;
 	color: #FFFFFF;
 	font-family: 'Open Sans',sans-serif;
 	background-color:#e73232;
 	text-align: right;
 }
+
 
 
 
