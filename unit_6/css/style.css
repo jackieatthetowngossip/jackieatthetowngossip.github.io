@@ -101,8 +101,9 @@ cite {
 
 #column1 {
 	float: left;
-	width: 60%;
+	width: 58%;
 	padding: 4em 0 4em 0;
+	margin-left: 2%;
 }
 
 #column2 {
