@@ -55,7 +55,7 @@ h2 {
 	padding:2em 0 7em 2em;
 }
 
-#donatenow{
+#donatenowbox{
 	float:right;
 	padding:2em 2em 2em 2em;
 	color: #FFFFFF;
@@ -174,4 +174,11 @@ footer {
 	margin:5em 0 0 0;
 	padding:6em 0 3em 0;
 	text-align:center;
+}
+
+@media only screen and (min-width: 553px){
+	.section {
+		float: none;
+		width: auto;
+	}
 }
