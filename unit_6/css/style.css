@@ -59,7 +59,8 @@ h2 {
 	float:right;
 	padding:2em 2em 2em 2em;
 	color: #FFFFFF;
-	font-family: 'Open Sans',sans-serif,bold;
+	font-family: 'Open Sans',sans-serif;
+	font-weight: bolder;
 	background-color:#e73232;
 	margin: 0, 3em 0 0;
 }
