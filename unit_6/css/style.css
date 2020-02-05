@@ -161,13 +161,13 @@ cite {
 }
 #column5 {
 
-	align-content:right;
+	text-align-content:left;
 
 }
 
 #column6 {
 	padding: 3em;
-	text-align: left;
+	text-align: right;
 }
 
 .contact {
