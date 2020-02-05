@@ -158,7 +158,10 @@ cite {
 
 }
 
-}
+	#eachsaint {
+		text-align:left;
+	}
+	
 #column5 {
 
 	text-align-content:left;
