@@ -152,8 +152,9 @@ cite {
 	height: 0;
 }
 
-.help {
+#help {
 	width:100%;
+	padding:2em 0 3em 0;
 
 }
 
