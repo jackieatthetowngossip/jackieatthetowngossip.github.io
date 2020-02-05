@@ -139,10 +139,9 @@ cite {
 #column4 {
 	float: right;
 	width: 48%;
-	margin-right: 1.5%
-	margin-left: .5%;
+	margin-right: 2%;
 	padding: 1em;
-	text-align: right;
+	text-align: center;
 }
 
 .clearfix:after {
