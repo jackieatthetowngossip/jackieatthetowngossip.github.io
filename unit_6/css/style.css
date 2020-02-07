@@ -2,14 +2,15 @@
 @import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
 * {margin: 0; padding: 0; box-sizing: border-box;}
 
-<meta name="viewport" content="width=device-width, initial-scale=1">
 
-nav {
+
+#nav1 {
 	font-family: 'Cherry Cream Soda', cursive;
 	color:#000000;
 	font-size: 16px;
 	padding-bottom: 0;
 	text-align: left;
+	float:left;
 
 }
 
@@ -20,6 +21,16 @@ a {
 
 a:hover{
 	color:#e73232;
+}
+
+#donatenowbox {
+	float: right;
+	padding:1em 1em 1em 1em;
+	color: #FFFFFF;
+	font-family: 'Open Sans',sans-serif;
+	font-weight: bolder;
+	background-color:#e73232;
+	margin: 0 5em 0 0;
 }
 
 body {
@@ -57,21 +68,9 @@ h2 {
 	padding:2em 0 7em 2em;
 }
 
-#donatenowbox{
-	float:right;
-	padding:1em 1em 1em 1em;
-	color: #FFFFFF;
-	font-family: 'Open Sans',sans-serif;
-	font-weight: bolder;
-	background-color:#e73232;
-	margin: 0 5em 0 0;
-}
-
-
-
 
 #sitetitle {
-	padding: 8em 0 0 10em;
+	padding: 12em 0 0 13em;
 }
 
 
@@ -115,8 +114,12 @@ cite {
 	margin-right: 3%;
 }
 
+#checkout {
+	padding: 0 0 2em 0;
+}
+
 #inspire {
-	padding: 2em 0 3em 0;
+	padding: 2em 0 2em 0;
 
 }
 
@@ -154,13 +157,14 @@ cite {
 
 #help {
 	width:100%;
-	padding:2em 0 3em 0;
+	padding:2em 0 0 0;
 
 }
 
 #everysaint h1 {
-	text-align:left;
-	padding:2em 0 3em 0;
+	
+	padding:2em 2em 3em 0;
+	color: white;
 	
 }
 
@@ -174,14 +178,14 @@ cite {
 
 #howcan {
 
-	padding:6em 0 3em 0;
+	padding:6em 0 0 0;
 	margin-left: 3em;
 
 }
 
 #unorderedlist {
-	margin-left: 3em;
-	padding-top: 3em
+	margin-left: 3.5em;
+	padding-top: 2em
 }
 
 #column6 {
@@ -192,14 +196,18 @@ cite {
 
 }
 
-#contact {
+#Contact {
 	margin: 2em 0 3em 0;
 	}
 
+#Contact a {
+	color: #e73232;
+
+}
 footer {
 	background-color:#0C2644;
 	color:#ffffff;
-	margin:2em 0 0 0;
+	margin: 2em 0 0 0;
 	padding:10em 0 5em 0;
 	text-align:center;	
 
