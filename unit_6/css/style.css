@@ -118,6 +118,14 @@ cite {
 	padding: 0 0 2em 0;
 }
 
+.clearfix:after {
+	visibility: hidden;
+	display: block;
+	content:"";
+	clear: both;
+	height: 0;
+}
+
 #inspire {
 	padding: 2em 0 2em 0;
 
@@ -128,7 +136,9 @@ cite {
 	width: 50%;
 	padding:2em;
 	text-align:left;
+
 }
+
 
 #children {
 	padding:3em 1em 1em 0;
@@ -162,12 +172,11 @@ cite {
 }
 
 
-
 #everysaint h1 {
 	
 	padding:2em 2em 3em 0;
 	color: white;
-	
+}
 	
 
 #column5 {
@@ -198,6 +207,14 @@ cite {
 
 }
 
+.clearfix:after {
+	visibility: hidden;
+	display: block;
+	content:"";
+	clear: both;
+	height: 0;
+	}
+
 #Contact {
 	margin: 2em 0 3em 0;
 	}
@@ -206,6 +223,7 @@ cite {
 	color: #e73232;
 
 }
+
 footer {
 	background-color:#0C2644;
 	color:#ffffff;
