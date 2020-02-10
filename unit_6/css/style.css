@@ -234,14 +234,25 @@ footer {
 }
 
 @media only screen and (max-width: 1140px) {
-	#nav1, #donatenowbox, #column1, #column2, #column3, #column4, #column5, #column6 {
+	#nav1, #donatenowbox, #column1, #column2, #column3, #column4, #column5, #column6 {	
 		float: none;
 		width: auto;
+		text-align: center;
+
+	}
+	h1, h2 {
+		text-align: center;
+		
 	}
 
 @media only screen and (max-width: 962px) {
-	#nav1, #donatenowbox, #column1, #column2, #column3, #column4, #column5, #column6 {
+	#nav1, #donatenowbox, #column1, #column2, #column3, #column4, #column5, #column6 {	
 		float: none;
 		width: auto;
+		text-align: center;
 
+	}
+	h1, h2 {
+		text-align: center;
+	}
 }
