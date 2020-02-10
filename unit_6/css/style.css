@@ -7,7 +7,7 @@
 #nav1 {
 	font-family: 'Cherry Cream Soda', cursive;
 	color:#000000;
-	font-size: 16px;
+	font-size: 1em;
 	padding-bottom: 0;
 	text-align: left;
 	float:left;
@@ -15,7 +15,7 @@
 }
 
 a {
-	padding:10px;
+	padding:.6em;
 	color:#000000;
 }
 
@@ -102,14 +102,14 @@ cite {
 
 #column1 {
 	float: left;
-	width: 48%;
+	width: 49%;
 	padding: 4em 0 4em 0;
 	margin-left: 2%;
 }
 
 #column2 {
 	float: right;
-	width: 47%;
+	width: 46%;
 	padding:8em 0 4em 0;
 	margin-right: 3%;
 }
@@ -233,9 +233,15 @@ footer {
 
 }
 
-@media only screen and (min-width: 553px){
-	.section {
+@media only screen and (max-width: 1140px) {
+	#nav1, #donatenowbox, #column1, #column2, #column3, #column4, #column5, #column6 {
 		float: none;
 		width: auto;
 	}
+
+@media only screen and (max-width: 962px) {
+	#nav1, #donatenowbox, #column1, #column2, #column3, #column4, #column5, #column6 {
+		float: none;
+		width: auto;
+
 }
