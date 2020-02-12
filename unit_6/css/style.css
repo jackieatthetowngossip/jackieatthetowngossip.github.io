@@ -76,7 +76,7 @@ h2 {
 
 #first{
 	padding:3em 1em 3em 4em;
-    margin:3em auto;
+    margin:3em 3em 3em 3em;
 }
 
 blockquote {
@@ -102,20 +102,21 @@ cite {
 
 #column1 {
 	float: left;
-	width: 49%;
+	width: 48%;
 	padding: 4em 0 4em 0;
-	margin-left: 2%;
+	margin-left: 4%;
 }
 
 #column2 {
 	float: right;
-	width: 46%;
+	width: 38%;
 	padding:8em 0 4em 0;
-	margin-right: 3%;
+	margin-right: 5%;
+	margin-left: 5%
 }
 
 #checkout {
-	padding: 0 0 2em 0;
+	margin: 0 2em 2em 2.5em;
 }
 
 .clearfix:after {
@@ -155,6 +156,7 @@ cite {
 	margin-right: 2%;
 	padding: 1em;
 	text-align: center;
+	
 }
 
 .clearfix:after {
@@ -163,6 +165,10 @@ cite {
 	content:"";
 	clear: both;
 	height: 0;
+}
+
+#lonely {
+	resize: 60%;
 }
 
 #help {
@@ -236,7 +242,7 @@ footer {
 @media only screen and (max-width: 1140px) {
 	#nav1, #donatenowbox, #column1, #column2, #column3, #column4, #column5, #column6 {	
 		float: none;
-		width: auto;
+		width: 100%;
 		text-align: center;
 
 	}
@@ -245,14 +251,14 @@ footer {
 		
 	}
 
-@media only screen and (max-width: 962px) {
-	#nav1, #donatenowbox, #column1, #column2, #column3, #column4, #column5, #column6 {	
-		float: none;
-		width: auto;
-		text-align: center;
+	#donatenowbox {
+		width: 150px;
+		margin-top: : 1 auto;
+	}
 
+	img, iframe {
+		width:100%;
 	}
-	h1, h2 {
-		text-align: center;
-	}
+
+
 }
