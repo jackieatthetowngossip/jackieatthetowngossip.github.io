@@ -168,7 +168,7 @@ cite {
 }
 
 #lonely {
-	width: 45%;
+	width: 100%;
 }
 
 #help {
@@ -179,7 +179,6 @@ cite {
 
 
 #everysaint h1 {
-	
 	padding:2em 2em 3em 0;
 	color: white;
 }
@@ -195,7 +194,7 @@ cite {
 
 #howcan {
 
-	padding:6em 0 0 0;
+	padding:6em 0 0 1em;
 	margin-left: 3em;
 
 }
@@ -220,6 +219,10 @@ cite {
 	clear: both;
 	height: 0;
 	}
+
+#collage {
+	width:100%;
+}
 
 #Contact {
 	margin: 2em 0 3em 0;
